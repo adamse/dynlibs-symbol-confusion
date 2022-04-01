@@ -1,0 +1,6 @@
+{
+    global:
+        libb_fun;
+    local:
+        *;
+};
